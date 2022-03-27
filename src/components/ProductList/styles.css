@@ -1,0 +1,23 @@
+button {
+  border: none;
+  background: none;
+}
+li {
+  list-style-type: none;
+}
+.main-container {
+        justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+.product-list {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+}
+.button-container {
+  display: flex;
+  justify-content: right;
+}
