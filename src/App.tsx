@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { ProductList } from './Components/ProductList';
+import { ProductList } from './components/ProductList';
 
 function App() {
   
